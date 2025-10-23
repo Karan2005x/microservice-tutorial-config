@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Config-Default
+    name: Config-Default-GitHub
 eureka:
   client:
     fetch-registry: true
